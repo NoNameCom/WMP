@@ -1,0 +1,1 @@
+INSERT INTO ACCOUNTS (login, email, password, type_id) VALUES ('NoName', 'kuzminda1992@gmail.com', '32167Lbvf666', 4);

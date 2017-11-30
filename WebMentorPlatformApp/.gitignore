@@ -1,0 +1,10 @@
+*.iml
+*.jar
+*.war
+*.ear
+*.log
+/resources/conf.configs
+
+*/target/*
+/.idea/*
+/out/*

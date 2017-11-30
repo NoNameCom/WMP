@@ -1,0 +1,94 @@
+.red-waves .waves-effect .waves-ripple {
+
+}
+
+.icon-margin-top{
+    margin-top: 7px;
+}
+
+.login-card-panel{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 3px;
+    border-radius: 4px;
+}
+
+.login-card-content{
+    padding: 7px !important;
+}
+
+.login-input{
+    margin-left: 28px !important;
+    margin-bottom: 9px !important;
+}
+
+.login-button{
+    margin-top: 8px;
+    width: 100% !important;
+}
+
+.remember-me{
+    padding-left: 19px !important;
+    color: #009688 !important;
+}
+
+.remember-me-margin{
+    margin-top: 8px;
+}
+
+.nav-panel{
+    padding-left: 0px !important;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.left-panel-col{
+    padding-left: 6px !important;
+    padding-right:  6px !important;
+}
+
+.form-margin{
+    margin-bottom: 2px;
+}
+
+.green-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating){
+    color: #009688 !important;
+}
+
+.green-action a:not(.btn):not(.btn-large):not(.btn-large):not(.btn-floating):hover {
+    color: #4db6ac !important;
+}
+
+.padding-card-action{
+    padding: 9px !important;
+}
+
+.close-icon{
+    margin-top: 5px;
+    color: #ef5350;
+}
+
+.close-area{
+    margin-left: auto;
+    margin-right: 5px;
+    width: 27px;
+    height: 27px;
+}
+
+.modal-custom{
+    border-radius: 7px;
+}
+
+::-webkit-input-placeholder {
+    color: #4db6ac;
+}
+::-moz-placeholder {
+    color: #4db6ac;
+}
+:-ms-input-placeholder {
+    color: #4db6ac;
+}
+:-moz-placeholder {
+    color: #4db6ac;
+}
+
